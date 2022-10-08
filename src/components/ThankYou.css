@@ -1,3 +1,6 @@
+*{
+text-align: center;
+}
 .thank_you_container{
 width:100%;
 display: flex;
